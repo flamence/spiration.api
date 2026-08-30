@@ -23,4 +23,4 @@ For details, see [Contributing to Spiration](https://flamence.github.io/spiratio
 
 ## License
 
-This repository is licensed under the [Apache License 2.0](LICENSE).
+This repository is licensed under the [MIT License](LICENSE).

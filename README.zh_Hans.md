@@ -25,4 +25,4 @@ FetchContent_MakeAvailable(spiration.api)
 
 ## 协议许可
 
-该项目仓库使用 [Apache License 2.0](LICENSE) 协议。
+该项目仓库使用 [MIT License](LICENSE) 协议。

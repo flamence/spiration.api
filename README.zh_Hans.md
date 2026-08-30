@@ -15,7 +15,7 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(spiration.api)
 ```
 
-在 [Spiration 文档](https://flamence.github.io/spiration.docs/en/) 中了解更多。
+在 [Spiration 文档](https://flamence.github.io/spiration.docs/) 中了解更多。
 
 ## 贡献支持
 

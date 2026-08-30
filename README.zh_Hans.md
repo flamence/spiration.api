@@ -1,7 +1,5 @@
 # Spiration API
 
-[![](https://github.com/flamence/spiration/actions/workflows/cmake-multi-platform.yml/badge.svg?branch=gui)](https://github.com/flamence/spiration/actions/workflows/cmake-multi-platform.yml) [![](https://img.shields.io/github/downloads/flamence/spiration/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F)](https://github.com/flamence/spiration/releases)
-
 [简体中文](#) · [English](README.md)
 
 ## 快速开始

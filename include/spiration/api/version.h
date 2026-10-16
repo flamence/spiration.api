@@ -20,8 +20,8 @@
  * - **修订版本**（patch）：仅修补文档、注释或不影响 ABI 的实现错误。
  * @{
  */
-#define SPIRATION_API_VERSION_MAJOR 1 /**< 主版本。 */
-#define SPIRATION_API_VERSION_MINOR 0 /**< 次版本。 */
+#define SPIRATION_API_VERSION_MAJOR 0 /**< 主版本。 */
+#define SPIRATION_API_VERSION_MINOR 1 /**< 次版本。 */
 #define SPIRATION_API_VERSION_PATCH 0 /**< 修订版本。 */
 /** @} */
 
@@ -43,7 +43,7 @@
 /**
  * @brief 当前 C API 版本的可读字符串。
  */
-#define SPIRATION_API_VERSION_STRING "1.0.0"
+#define SPIRATION_API_VERSION_STRING "0.1.0"
 
 /** @brief 取编码版本的主版本号。 */
 #define SPIRATION_API_VERSION_MAJOR_OF(version) \

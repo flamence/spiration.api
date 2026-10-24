@@ -10,6 +10,7 @@
 
 #include <spiration/api/version.h>
 #include <spiration/api/base.h>
+#include <spiration/api/agent.h>
 #include <spiration/api/extension.h>
 #include <spiration/api/host.h>
 #include <spiration/api/loader.h>

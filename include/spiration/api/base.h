@@ -31,6 +31,8 @@ typedef struct spiration_loader_api spiration_loader_api;
 typedef struct spiration_extension_desc spiration_extension_desc;
 /** @brief 可选的界面函数表，见 `spiration/api/ui.h`。 */
 typedef struct spiration_ui_api spiration_ui_api;
+/** @brief 可选的智能体函数表，见 `spiration/api/agent.h`。 */
+typedef struct spiration_agent_api spiration_agent_api;
 /** @brief 标签页句柄（不透明）。 */
 typedef struct spiration_tab spiration_tab;
 /** @brief 控件句柄（不透明）。 */
